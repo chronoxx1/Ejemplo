@@ -1,0 +1,18 @@
+body{
+	background-color: #585445;
+	color: white;
+	font-family: verdana, arial. serif;
+}
+
+h1,h2{
+	color: #A0C3F8;
+}
+
+mark{
+	color: yellow;
+	background-color: transparent;
+}
+
+a{
+	color: red;
+}
